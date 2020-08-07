@@ -1,4 +1,7 @@
 # Proffy - Web 
+<h1 align="center">
+    <img alt="Proffy" title="Proffy" src="./src/assets/images/logo-preview.svg" width="220" />
+</h1>
 
 Proffy foi um projeto desenvolvido durante a Next level Week #2 promovido pela Rocketseat. 
 A aplicação tem a proposta de conectar professores e alunos de uma maneira fácil e rápida.
@@ -11,7 +14,8 @@ A aplicação tem a proposta de conectar professores e alunos de uma maneira fá
 ## 🚀 Tecnologias utilizadas
  - TypeScript
  - ReactJS
+ - CSS
 
 <h4 align="center">
-    Made with 💜 by <a href="https://www.linkedin.com/in/ygor-thiago-farias-1111aa196/" target="_blank">Ygor Thiago Farias </a>
+    Made with 💜 by <a href="https://www.linkedin.com/in/ygor-thiago-farias-1111aa196/" target="_blank">Ygor Thiago Farias</a>
 </h4>
